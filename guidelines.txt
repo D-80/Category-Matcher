@@ -1,0 +1,98 @@
+JOGURTY I DESERY UHT SPECJALNE (3981):
+- Jogurty pitne 
+
+JOGURTY(3982):
+- Zwykle jogurty
+
+DANIA GOTOWE (PUSZKA, SLOIK, SUCHE) (1068):
+- Wszystkie potrawy gotowe suche typu puree do zalania itp.
+
+ZUPA SUSZONA, PROSZKOWANA (63):
+- Suche zupki
+
+ZUPA W PLYNIE (KARTON, BUTELKA, KONCENTRAT - PASTA) (64):
+- Plynne zupy i koncentraty
+
+PASZTETY - WSZELKIEGO RODZAJU, SMALEC DO SMAROWANIA (1562):
+- Smalec do smarowania razem z pasztetami 
+
+PRODUKTY ODTLUSZCZONE DO SMAROWANIA (2361):
+- Smalec do smażenia
+
+KLOPSY, GOLABKI, PULPETY (1565):
+- Klopsy, pulpety w puszkach
+
+WARZYWA INNE (KAPUSTA, PAPRYKA, BURAKI, ITP) (761):
+- Papryka, buraki, kapusta kiszona itp
+
+SALATKI (767):
+- Salatki
+
+POMOCE KULINARNE, GRZANKI, PRZYPRAWY (VEGETA, KOSTKI) (732):
+- Kostki rosolowe
+
+PRZYPRAWY, SOK CYTRYNOWY, CHRZAN, CWIKLA (892):
+- Wszystkie przyprawy mieszanki, chrzan i cwikla
+
+PRZYPRAWY KORZENNE I ZIOLOWE (1262):
+- Przyprawy mono np. majeranek, czosnek 
+
+PUREE, ZUPY, SUCHY, W KARTONACH (83):
+- Kaszki dla dzieci
+
+OWOCE SUSZONE, MIESZANE, CIASTO MIGDALOWE (121):
+- Owoce suzone, wiórki kokosowe
+
+OWOCE ZIARNISTE, CALE, MIELONE, W PUDRZE (122):
+- Ziarna suszone (oprócz cieciorki, grochu i fasoli)
+
+WARZYWA SUSZONE, LEN, SOCZEWICA (151):
+- Cieciorka, groch, fasola itd
+
+DROZDZE (2082):
+- Proszek do pieczenia
+
+DESERY DO PRZYGOTOWANIA, LODY (182):
+- Kisiel i galaretki w proszku
+
+CHIPSY, PAJETKI JABLKOWE (2462):
+- Chipsy i chrupki 
+
+KAWA PRAWDZIWA (1072):
+- Kawa ziarnista
+
+KAWA MOCNA, MIESZANA (1074):
+- Kawa mielona
+
+WYROBY Z CUKRU INNE (178):
+- Lizaki, chałwa 
+
+NAPOJE OWOCOWE GAZOWANE (885):
+- Ice tea i kawa w płynie
+
+PIWO LUKSUSOWE (388):
+- Wszystkie piwa
+
+APARATY DO GOLENIA JEDNO I WIELORAZOWE (3611):
+- Maszynki do golenia i pedzle
+
+ZELE, KREMY DO KAPIELI DLA DOROSLYCH I DZIECI (4311):
+- Wszystkie płyny do kapieli (poza solami)
+
+OLEJE, PERLY, SOLE DO KAPIELI (4318):
+- Sole do kapieli
+
+ODZYWCZE (1672):
+- Paracetamol, witaminy itp
+
+PARAFARMACEUTYKI /PANADOL, CODIPAR, SCHOLL ITP./ (3802):
+- Plastry, bandaze
+
+BATONIKI WATOWE (4728):
+- Patyczki do uszu
+
+PRODUKTY PRZEPYCHAJACE KANALIZACJE (3071):
+- Plyny kamien i rdza
+
+PRODUKTY CZYSZCZACE WC (3532):
+- Srodki do wc np Domestos
